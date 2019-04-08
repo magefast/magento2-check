@@ -54,6 +54,7 @@ function phpExtensions()
         'iconv',
         'Zend OPcache',
         'xdebug',
+        'bcmath'
     );
     $phpExtensions = get_loaded_extensions();
     foreach ($requiredExtensions as $req) {
