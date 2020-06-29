@@ -49,6 +49,7 @@ function phpExtensions()
         'soap',
         'xml',
         'xsl',
+        'bcmath',
         'zip',
         'json',
         'iconv',
